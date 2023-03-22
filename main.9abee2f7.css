@@ -1,0 +1,2 @@
+.clock-wrapper{display:flex;justify-content:center;align-content:center;margin:0}.clock__center{display:block;position:relative;margin-left:auto;margin-right:auto}.clock__minutes,.clock__seconds{position:absolute;top:0;animation-name:clock;animation-duration:60s;animation-timing-function:linear;animation-iteration-count:infinite}.clock__minutes{animation-duration:3600s;z-index:1}@keyframes clock{0%{rotate:0deg}50%{rotate:180deg}to{rotate:1turn}}
+/*# sourceMappingURL=main.9abee2f7.css.map */
